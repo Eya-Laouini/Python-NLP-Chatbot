@@ -1,4 +1,4 @@
-# **python-NLP-Chatbot**
+# **Python-NLP-Chatbot**
 
 The Python NLP Chatbot is an intelligent and interactive program that uses Natural Language Processing (NLP) techniques to understand and respond to user queries in natural language. It can be customized for various applications, such as customer support, information retrieval, or task automation.
 ## Installation
